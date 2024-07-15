@@ -1,0 +1,16 @@
+{
+  "name": "project-07-adventure-game",
+  "version": "1.0.0",
+  "description": "This is a CLI based adventure_game",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aliya Pervez",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^10.0.1"
+  }
+}
