@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import chalk from "chalk";
-import inquirer  from "inquirer"
+import inquirer  from "inquirer";
 
 //classes Player & Opponent
 class Player{
