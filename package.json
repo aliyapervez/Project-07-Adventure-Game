@@ -1,13 +1,14 @@
 {
-  "name": "project-07-adventure-game",
+  "name": "@aliyapervez/adventure-game",
   "version": "1.0.0",
   "description": "This is a CLI based adventure_game with Typescript,Node.js and inquirer",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "publishConfig":{
     "access" : "public"
   },
-  "bin": "index.js",
+ 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
